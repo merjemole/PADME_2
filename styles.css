@@ -1,0 +1,49 @@
+/* Grundläggande styling för alla sidor */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #003366;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  header nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #003366;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #004080;
+  }
+  
+  footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
